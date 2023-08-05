@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! 👋
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafisto&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafisto&theme=tokyonight" alt="contribution-streak-of-user-rafisto"/>
 
 Let's:
 - ⚡ create electronic circuits
@@ -19,6 +19,7 @@ In the long term, I intend to focus on the development of scientific and soft sk
 
 Various websites:<br/>
 - [Author's webpage](https://rafisto.github.io/)
+- [Books I've read](./BOOKS.md)
 - [Different projects](https://rwlodarczyk.github.io/)
 <br/>
 
