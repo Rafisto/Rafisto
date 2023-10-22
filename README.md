@@ -3,8 +3,6 @@
 
 Welcome to my GitHub profile! 👋
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafisto&theme=tokyonight" alt="contribution-streak-of-user-rafisto"/>
-
 Let's:
 - ⚡ create electronic circuits
 - 🎸 play electric guitar
@@ -31,3 +29,5 @@ Contact:
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Rafisto" alt="watching_count" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafisto&theme=tokyonight" alt="contribution-streak-of-user-rafisto"/>
