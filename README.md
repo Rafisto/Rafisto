@@ -1,7 +1,10 @@
-
 ### Rafist0
 
 Welcome to my GitHub profile! 👋
+
+Currently I work at: 
+- [VIII 2023 - now] Wroclaw Networking and Supercomputing Center. My tasks include programming, server assembly and maintenance, and event organization.
+- [XI 2022 - now] Academic High School of Wrocław University of Technology - I teach classes in electronics. The series includes prototyping and manufacturing of electronic devices.
 
 Let's:
 - ⚡ create electronic circuits
@@ -19,6 +22,7 @@ Various websites:<br/>
 - [Author's webpage](https://rafisto.github.io/)
 - [Books I've read](./BOOKS.md)
 - [Different projects](https://rwlodarczyk.github.io/)
+- [My Course in Electronics](https://github.com/ALO-PWr-Elektronika/Classes)
 <br/>
 
 Contact:
@@ -27,6 +31,8 @@ Contact:
 - [Instagram](https://www.instagram.com/rafist0/) @rafist0
 - [LinkedIn](https://www.linkedin.com/in/rafal-wlodarczyk/) Rafał Włodarczyk
 <br/>
+
+Translated with www.DeepL.com/Translator (free version)
 
 <img src="https://komarev.com/ghpvc/?username=Rafisto" alt="watching_count" />
 
