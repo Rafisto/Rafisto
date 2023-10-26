@@ -32,8 +32,6 @@ Contact:
 - [LinkedIn](https://www.linkedin.com/in/rafal-wlodarczyk/) Rafał Włodarczyk
 <br/>
 
-Translated with www.DeepL.com/Translator (free version)
-
 <img src="https://komarev.com/ghpvc/?username=Rafisto" alt="watching_count" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafisto&theme=tokyonight" alt="contribution-streak-of-user-rafisto"/>
