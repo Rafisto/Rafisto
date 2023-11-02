@@ -23,6 +23,7 @@ Various websites:<br/>
 - [Books I've read](./BOOKS.md)
 - [Different projects](https://rwlodarczyk.github.io/)
 - [My Course in Electronics](https://github.com/ALO-PWr-Elektronika/Classes)
+- [University notes](https://github.com/rafisto/uni)
 <br/>
 
 Contact:
