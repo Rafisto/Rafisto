@@ -22,9 +22,13 @@ Various websites:<br/>
 - [Author's webpage](https://rafisto.github.io/)
 - [Books I've read](./BOOKS.md)
 - [Different projects](https://rwlodarczyk.github.io/)
-- [My Course in Electronics](https://github.com/ALO-PWr-Elektronika/Classes)
+- [My Course in Electronics](https://github.com/ALO-PWr-Elektronika/Classes) (polish)
 - [University notes](https://github.com/rafisto/uni)
 <br/>
+
+Member of:
+- [X 2023 - now] WMS DEV
+- [X 2023 - now] White Hats PWr
 
 Contact:
 - [Youtube](https://www.youtube.com/channel/UCKfsZesQpYanHjMU5yNcDNA) Admin1
