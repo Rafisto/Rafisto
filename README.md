@@ -20,6 +20,7 @@ In the long term, I intend to focus on the development of scientific and soft sk
 
 Various websites:<br/>
 - [Author's webpage](https://rafisto.github.io/)
+- [Personal Travel Blog](https://www.rwlodarczyk.pl)
 - [Books I've read](./BOOKS.md)
 - [Different projects](https://rwlodarczyk.github.io/)
 - [My Course in Electronics](https://github.com/ALO-PWr-Elektronika/Classes) (polish)
