@@ -32,10 +32,12 @@ Member of:
 - [X 2023 - now] White Hats PWr
 
 Contact:
-- [Youtube](https://www.youtube.com/channel/UCKfsZesQpYanHjMU5yNcDNA) Admin1
-- [GitHub](https://github.com/Rafisto) @Rafisto
 - [Instagram](https://www.instagram.com/rafist0/) @rafist0
 - [LinkedIn](https://www.linkedin.com/in/rafal-wlodarczyk/) Rafał Włodarczyk
+
+Contributions:
+- I implemented stalin sort algorithm in [SQL](https://github.com/gustavo-depaula/stalin-sort/commit/f442ccfcef470d15ac6bbb92f7e1dfc6442c164d)
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Rafisto" alt="watching_count" />
