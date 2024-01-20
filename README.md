@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 👋
 
 Currently I work at: 
 - [VIII 2023 - now] Wroclaw Networking and Supercomputing Center. My tasks include programming, assembly & maintenance of servers and event organization.
-- [XI 2022 - now] Academic High School of Wrocław University of Technology - I teach classes in electronics. The series includes prototyping and manufacturing of electronic devices.
+- [XI 2022 - I 2024] Academic High School of Wrocław University of Technology - I taught classes in electronics. The series included prototyping and manufacturing of electronic devices.
 
 Let's:
 - ⚡ create electronic circuits
