@@ -107,7 +107,7 @@ I present to you the list of books I've read during high school, sorted by last 
 104. Mark Twain - The Adventures of Huckleberry Finn
 105. Mark Twain - The Adventures of Tom Sawyer
 106. Oscar Wilde - The Picture of Dorian Gray
-107. Stanisław Wyspiański - Przedwiośnie
+107. Stanisław Wyspiański - Wesele
 108. Jewgienij Zamiatin - My
 109. Stefan Żeromski - Przedwiośnie
 
