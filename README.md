@@ -29,7 +29,6 @@ Various websites:<br/>
 
 Member of:
 - [X 2023 - now] WMS DEV
-- [X 2023 - now] White Hats PWr
 
 Contact:
 - [Instagram](https://www.instagram.com/rafist0/) @rafist0
