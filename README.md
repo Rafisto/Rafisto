@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 👋
 
-Hey, visit my 🌐 website [rwlodarczyk.pl](https://www.rwlodarczyk.pl/)
+Hey, visit my website [rwlodarczyk.pl🌐](https://www.rwlodarczyk.pl/)
 
 Currently I work at: 
 - [VIII 2023 - now] Wroclaw Networking and Supercomputing Center. My tasks include programming, assembly & maintenance of servers and event organization.
