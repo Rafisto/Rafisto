@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 👋
 
-Hey, visit my website [rwlodarczyk.pl🌐](https://www.rwlodarczyk.pl/)
+Hey, visit my website 🌐 [https://www.rwlodarczyk.pl](https://www.rwlodarczyk.pl/)
 
 Currently I work at: 
 - [VIII 2023 - now] Wroclaw Networking and Supercomputing Center. My tasks include programming, assembly & maintenance of servers and event organization.
@@ -11,8 +11,6 @@ Currently I work at:
 Let's:
 - ⚡ create electronic circuits
 - 🎸 play electric guitar
-- 📝 write poems 
-- 📚 read classical literature
 
 I share my passions with others. Within the limits of my abilities, I try to instill in people the desire for action and self-development. I resolve conflicts with the help of Stoic philosophy and the teachings of Immanuel Kant.
 
@@ -22,7 +20,7 @@ In the long term, I intend to focus on the development of scientific and soft sk
 
 Various websites:<br/>
 - [Author's webpage](https://rafisto.github.io/)
-- [Personal Travel Blog](https://www.rwlodarczyk.pl)
+- [Personal Travel Blog](https://blog.rwlodarczyk.pl)
 - [Books I've read](./BOOKS.md)
 - [Different projects](https://rwlodarczyk.github.io/)
 - [My Course in Electronics](https://github.com/ALO-PWr-Elektronika/Classes) (polish)
@@ -40,6 +38,7 @@ Contact:
 
 Contributions:
 - I implemented stalin sort algorithm in [SQL](https://github.com/gustavo-depaula/stalin-sort/commit/f442ccfcef470d15ac6bbb92f7e1dfc6442c164d)
+- Author of 3 challenges for [BtS 2024](https://whitehats.pwr.edu.pl/bts/bts-5th-edition/) CTF competition, publically available here: [misc/mod_ari](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/misc/mod_ari), [misc/object_dec](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/misc/object_dec), [crypto/xor_img](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/crypto/xor_img)
 
 <br/>
 
