@@ -37,7 +37,8 @@ Contact:
 - [LinkedIn](https://www.linkedin.com/in/rafal-wlodarczyk/) Rafał Włodarczyk
 
 Contributions:
-- I implemented stalin sort algorithm in [SQL](https://github.com/gustavo-depaula/stalin-sort/commit/f442ccfcef470d15ac6bbb92f7e1dfc6442c164d)
+- Implemented stalin sort algorithm in [SQL](https://github.com/gustavo-depaula/stalin-sort/commit/f442ccfcef470d15ac6bbb92f7e1dfc6442c164d)
+- DevOps during [Cybertron 2023 CTF](https://www.linkedin.com/feed/update/urn:li:activity:7150921638400729088)
 - Author of 3 challenges for [BtS 2024](https://whitehats.pwr.edu.pl/bts/bts-5th-edition/) CTF competition, publically available here: [misc/mod_ari](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/misc/mod_ari), [misc/object_dec](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/misc/object_dec), [crypto/xor_img](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/crypto/xor_img)
 
 <br/>
