@@ -19,6 +19,7 @@ I am interested in different cultures, which I absorb by reading travel books an
 In the long term, I intend to focus on the development of scientific and soft skills. In addition, I am going to do anything possible to remain an open-minded person, ready for knowledge and curious about the world.
 
 ## Contributions
+- Initiator of ALO PWr Electronics Competition, See the post about [The II Edition](https://www.facebook.com/liceumPWr/posts/988262823111065) (03.12.2024 [exercises] and [solutions])
 - DevOps during [Cybertron 2023 CTF](https://www.linkedin.com/feed/update/urn:li:activity:7150921638400729088), admin during [Cybertron 2024 CTF](https://git.e-science.pl/cybertron/zadania2024/cybertron2024/)
 - Author of 4 CTF challenges: [web/dbpassword2023](https://git.e-science.pl/cybertron/zadania2023/team_wlodarczyk_jagielski_zadanie1_dbpassword/-/blob/master/README.md), [web/beveryfast2024](https://git.e-science.pl/cybertron/zadania2024/team_wlodarczyk_zadanie_1_beveryfast), [web/accesskey2024](https://git.e-science.pl/cybertron/zadania2024/team_wlodarczyk_zadanie_2_accesskey), [crypto/dh2024](https://git.e-science.pl/cybertron/zadania2024/team_wlodarczyk_zadanie_3_dh)
 - Author of 3 CTF challenges for [BtS 2024](https://whitehats.pwr.edu.pl/bts/bts-5th-edition/): [misc/mod_ari](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/misc/mod_ari), [misc/object_dec](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/misc/object_dec), [crypto/xor_img](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/crypto/xor_img)
