@@ -2,11 +2,12 @@ Welcome to my GitHub profile! 👋
 
 <img src="https://komarev.com/ghpvc/?username=Rafisto" alt="watching_count" />
 
-Currently work at: 
-- [VIII 2023 - now] Wroclaw Networking and Supercomputing Center. My tasks include kubernetes cluster administration and web service programming. See my [gitlab account](https://git.e-science.pl/rwlodarczyk/).
-- [XI 2022 - now] Academic High School of Wrocław University of Technology - I teach classes in electronics, which include [these basic topics](https://github.com/alo-pwr-elektronika/classes).
+Currently 💼 work at: 
+- [VIII 2023 - now] Wroclaw Networking and Supercomputing Center. Kubernetes and Openstack admin.
+- [XI 2022 - now] Academic High School of Wrocław University of Technology - I teach classes in electronics, which include [these topics](https://rafisto.github.io/electronics/).
 
 A proud member of:
+- [XII 2024 - now] [AKL](https://akl.pwr.edu.pl/)
 - [X 2023 - now] [WMS DEV](https://pl.linkedin.com/company/wms-dev) (DevOps) - Proxmox and kubernetes maniac, gitlab enjoyer
 - [X 2023 - now] [White Hats PWr](https://whitehats.pwr.edu.pl/kurs-pentestera/) (Pentester Course) - various CTF exercises (see [#contributions](#contributions))
 
@@ -23,7 +24,6 @@ In the long term, I intend to focus on the development of scientific and soft sk
 - DevOps during [Cybertron 2023 CTF](https://www.linkedin.com/feed/update/urn:li:activity:7150921638400729088), admin during [Cybertron 2024 CTF](https://git.e-science.pl/cybertron/zadania2024/cybertron2024/)
 - Author of 4 CTF challenges: [web/dbpassword2023](https://git.e-science.pl/cybertron/zadania2023/team_wlodarczyk_jagielski_zadanie1_dbpassword/-/blob/master/README.md), [web/beveryfast2024](https://git.e-science.pl/cybertron/zadania2024/team_wlodarczyk_zadanie_1_beveryfast), [web/accesskey2024](https://git.e-science.pl/cybertron/zadania2024/team_wlodarczyk_zadanie_2_accesskey), [crypto/dh2024](https://git.e-science.pl/cybertron/zadania2024/team_wlodarczyk_zadanie_3_dh)
 - Author of 3 CTF challenges for [BtS 2024](https://whitehats.pwr.edu.pl/bts/bts-5th-edition/): [misc/mod_ari](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/misc/mod_ari), [misc/object_dec](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/misc/object_dec), [crypto/xor_img](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/crypto/xor_img)
-- Implemented stalin-sort algorithm in [SQL](https://github.com/gustavo-depaula/stalin-sort/commit/f442ccfcef470d15ac6bbb92f7e1dfc6442c164d)
 
 ## Various websites:
 - [My Course in Electronics](https://github.com/ALO-PWr-Elektronika/Classes) (polish)
@@ -32,4 +32,5 @@ In the long term, I intend to focus on the development of scientific and soft sk
 - [Personal Travel Blog](https://blog.rwlodarczyk.pl) - self hosted travel blog
 - [Books read in high school](./BOOKS.md) - classical literature every aspiring engineer must read (in order to stay human)
 - [Other random projects](https://rwlodarczyk.github.io/) - little, maybe a bit interesting.
-- go-contest (under development)
+- [Gitlab account at WCSS](https://git.e-science.pl/rwlodarczyk/) - workplace vcs account (mostly private)
+- [stalin-sort algorithm in SQL](https://github.com/gustavo-depaula/stalin-sort/commit/f442ccfcef470d15ac6bbb92f7e1dfc6442c164d) - a silly but interesting contribution
