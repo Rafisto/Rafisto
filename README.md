@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 👋
 
 Currently 💼 work at: 
 - [VIII 2023 - now] Wroclaw Networking and Supercomputing Center. Kubernetes and Openstack admin.
-- [XI 2022 - now] Academic High School of Wrocław University of Technology - I teach classes in electronics, which include [these topics](https://rafisto.github.io/electronics/).
+- [XI 2022 - now] Academic High School of Wrocław University of Technology - I teach [classes in electronics](https://rafisto.github.io/electronics/).
 
 A proud member of:
 - [XII 2024 - now] [AKL](https://akl.pwr.edu.pl/)
