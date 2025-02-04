@@ -8,8 +8,8 @@ Currently 💼 work at:
 
 A proud member of:
 - [XII 2024 - now] [AKL](https://akl.pwr.edu.pl/)
-- [X 2023 - now] [WMS DEV](https://pl.linkedin.com/company/wms-dev) (DevOps) - Proxmox and kubernetes maniac, gitlab enjoyer
-- [X 2023 - now] [White Hats PWr](https://whitehats.pwr.edu.pl/kurs-pentestera/) (Pentester Course) - various CTF exercises (see [#contributions](#contributions))
+- [X 2023 - now] [WMS DEV PWr](https://pl.linkedin.com/company/wms-dev) - Board Member - Infrastructure and Development 
+- [X 2023 - now] [White Hats PWr](https://whitehats.pwr.edu.pl/kurs-pentestera/) - Pentester Course - various CTF exercises (see [#contributions](#contributions))
 
 ## kubectl describe Rafisto 🎸
 
