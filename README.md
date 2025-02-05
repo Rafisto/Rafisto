@@ -6,8 +6,8 @@ Currently 🏢 work at:
 - [2023 - now] Kubernetes and Openstack admin at [Wroclaw Networking and Supercomputing Center](https://wcss.pl/en/).
 - [2022 - now] Electronics Teacher at [Academic High School of Wrocław University of Technology](https://liceum.pwr.edu.pl/).
 
-in these 🚀 organizations:
-- [2024 - now] IT Section Member at [AKL PWr](https://akl.pwr.edu.pl/)
+A member of these 🚀 organizations:
+- [2024 - now] IT Section at [AKL PWr](https://akl.pwr.edu.pl/)
 - [2023 - now] Board Member at [WMS DEV PWr](https://pl.linkedin.com/company/wms-dev)
 - [2023 - now] CTF Task Designer at [White Hats PWr](https://whitehats.pwr.edu.pl/kurs-pentestera/)
 
