@@ -2,14 +2,14 @@ Welcome to my GitHub profile! 👋
 
 <img src="https://komarev.com/ghpvc/?username=Rafisto" alt="watching_count" />
 
-Currently 💼 work at: 
-- [VIII 2023 - now] Wroclaw Networking and Supercomputing Center. Kubernetes and Openstack admin.
-- [XI 2022 - now] Academic High School of Wrocław University of Technology - I teach [classes in electronics](https://rafisto.github.io/electronics/).
+Currently 🏢 work at: 
+- [2023 - now] Kubernetes and Openstack admin at [Wroclaw Networking and Supercomputing Center](https://wcss.pl/en/).
+- [2022 - now] Electronics Teacher at [Academic High School of Wrocław University of Technology](https://liceum.pwr.edu.pl/).
 
-A proud member of:
-- [XII 2024 - now] [AKL](https://akl.pwr.edu.pl/)
-- [X 2023 - now] [WMS DEV PWr](https://pl.linkedin.com/company/wms-dev) - Board Member - Infrastructure and Development 
-- [X 2023 - now] [White Hats PWr](https://whitehats.pwr.edu.pl/kurs-pentestera/) - Pentester Course - various CTF exercises (see [#contributions](#contributions))
+in these 🚀 organizations:
+- [2024 - now] IT Section Member at [AKL PWr](https://akl.pwr.edu.pl/)
+- [2023 - now] Board Member at [WMS DEV PWr](https://pl.linkedin.com/company/wms-dev)
+- [2023 - now] CTF Task Designer at [White Hats PWr](https://whitehats.pwr.edu.pl/kurs-pentestera/)
 
 ## kubectl describe Rafisto 🎸
 
@@ -26,7 +26,7 @@ In the long term, I intend to focus on the development of scientific and soft sk
 - Author of 3 CTF challenges for [BtS 2024](https://whitehats.pwr.edu.pl/bts/bts-5th-edition/): [misc/mod_ari](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/misc/mod_ari), [misc/object_dec](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/misc/object_dec), [crypto/xor_img](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/crypto/xor_img)
 
 ## Various websites:
-- [My Course in Electronics](https://github.com/ALO-PWr-Elektronika/Classes) (polish)
+- [My Course in Electronics](https://rafisto.github.io/electronics/) (polish)
 - [University notes](https://github.com/rafisto/uni) - this repo is of reasonable size.
 - [Author's webpage](https://rafisto.github.io/) - old website (github pages)
 - [Personal Travel Blog](https://blog.rwlodarczyk.pl) - self hosted travel blog
