@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 👋
 ## 📂 tail -f experience.log
 
 ### 🏢 Work  
-- **[2023–Present]** Kubernetes and OpenStack Admin at [Wroclaw Networking and Supercomputing Center](https://wcss.pl/en/)  
+- **[2023–Present]** Kubernetes and OpenStack Admin at [Wroclaw Centre for Networking and Supercomputing](https://wcss.pl/en/)  
 - **[2022–Present]** Electronics Teacher at [Academic High School of Wroclaw University of Technology](https://liceum.pwr.edu.pl/)  
 
 ### 📚 Studies  
@@ -13,9 +13,9 @@ Welcome to my GitHub profile! 👋
 - **[2019–2023]** Academic High School of Wroclaw University of Technology  
 
 ### 🚀 Student Organizations  
-- **[2023–Present]** DevOps at [WMS DEV PWr](https://pl.linkedin.com/company/wms-dev)  
-  - **[2023–2025]** DevOps Member  
-  - **[2025–Present]** Board Member, Lead Infrastructure Engineer  
+- **[2023–Present]** Admin/DevOps at [WMS DEV PWr](https://pl.linkedin.com/company/wms-dev)  
+  - **[2023–2025]** Infrastructure Team
+  - **[2025–Present]** Board Member, Infrastructure Team Lead
 - **[2024–Present]** IT Section at [AKL PWr](https://akl.pwr.edu.pl/)  
 - **[2023–Present]** CTF Task Designer at [White Hats PWr](https://whitehats.pwr.edu.pl/kurs-pentestera/)  
 
