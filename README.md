@@ -2,16 +2,24 @@ Welcome to my GitHub profile! 👋
 
 <img src="https://komarev.com/ghpvc/?username=Rafisto" alt="watching_count" />
 
-Currently 🏢 work at: 
-- [2023 - now] Kubernetes and Openstack admin at [Wroclaw Networking and Supercomputing Center](https://wcss.pl/en/).
-- [2022 - now] Electronics Teacher at [Academic High School of Wrocław University of Technology](https://liceum.pwr.edu.pl/).
+## 📂 tail -f experience.log
 
-A member of these 🚀 organizations:
-- [2024 - now] IT Section at [AKL PWr](https://akl.pwr.edu.pl/)
-- [2023 - now] Board Member at [WMS DEV PWr](https://pl.linkedin.com/company/wms-dev)
-- [2023 - now] CTF Task Designer at [White Hats PWr](https://whitehats.pwr.edu.pl/kurs-pentestera/)
+### 🏢 Work  
+- **[2023–Present]** Kubernetes and OpenStack Admin at [Wroclaw Networking and Supercomputing Center](https://wcss.pl/en/)  
+- **[2022–Present]** Electronics Teacher at [Academic High School of Wroclaw University of Technology](https://liceum.pwr.edu.pl/)  
 
-## kubectl describe Rafisto 🎸
+### 📚 Studies  
+- **[2023–Present]** B.Eng. in Algorithmic Computer Science at Wroclaw University of Technology  
+- **[2019–2023]** Academic High School of Wroclaw University of Technology  
+
+### 🚀 Student Organizations  
+- **[2023–Present]** DevOps at [WMS DEV PWr](https://pl.linkedin.com/company/wms-dev)  
+  - **[2023–2025]** DevOps Member  
+  - **[2025–Present]** Board Member, Lead Infrastructure Engineer  
+- **[2024–Present]** IT Section at [AKL PWr](https://akl.pwr.edu.pl/)  
+- **[2023–Present]** CTF Task Designer at [White Hats PWr](https://whitehats.pwr.edu.pl/kurs-pentestera/)  
+
+## 🎸 sh -c 'kubectl describe'
 
 I share my passions with others. Within the limits of my abilities, I try to instill in people the desire for action and self-development. I resolve conflicts with the help of Stoic philosophy and the teachings of Immanuel Kant.
 
@@ -19,13 +27,13 @@ I am interested in different cultures, which I absorb by reading travel books an
 
 In the long term, I intend to focus on the development of scientific and soft skills. In addition, I am going to do anything possible to remain an open-minded person, ready for knowledge and curious about the world.
 
-## Contributions
+## 🛠️ git log --oneline --graph
 - Initiator of ALO PWr Electronics Competition, See the post about [The II Edition](https://www.facebook.com/liceumPWr/posts/988262823111065) (03.12.2024 [exercises] and [solutions])
 - DevOps during [Cybertron 2023 CTF](https://www.linkedin.com/feed/update/urn:li:activity:7150921638400729088), admin during [Cybertron 2024 CTF](https://git.e-science.pl/cybertron/zadania2024/cybertron2024/)
 - Author of 4 CTF challenges: [web/dbpassword2023](https://git.e-science.pl/cybertron/zadania2023/team_wlodarczyk_jagielski_zadanie1_dbpassword/-/blob/master/README.md), [web/beveryfast2024](https://git.e-science.pl/cybertron/zadania2024/team_wlodarczyk_zadanie_1_beveryfast), [web/accesskey2024](https://git.e-science.pl/cybertron/zadania2024/team_wlodarczyk_zadanie_2_accesskey), [crypto/dh2024](https://git.e-science.pl/cybertron/zadania2024/team_wlodarczyk_zadanie_3_dh)
 - Author of 3 CTF challenges for [BtS 2024](https://whitehats.pwr.edu.pl/bts/bts-5th-edition/): [misc/mod_ari](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/misc/mod_ari), [misc/object_dec](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/misc/object_dec), [crypto/xor_img](https://github.com/PWrWhiteHats/BtS-2024-Writeups/tree/master/crypto/xor_img)
 
-## Various websites:
+## 🌐 xargs -n1 curl -L < websites  
 - [My Course in Electronics](https://rafisto.github.io/electronics/) (polish)
 - [University notes](https://github.com/rafisto/uni) - this repo is of reasonable size.
 - [Author's webpage](https://rafisto.github.io/) - old website (github pages)
