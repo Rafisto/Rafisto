@@ -4,15 +4,15 @@ Welcome to my GitHub profile! 👋
 
 ## 📂 tail -f experience.log
 
-### 🏢 Work  
-- **[2023–Present]** Kubernetes and OpenStack Admin at [Wroclaw Centre for Networking and Supercomputing](https://wcss.pl/en/)  
+### 🏢 Work
+- **[2023–Present]** Kubernetes Administrator at [Wroclaw Centre for Networking and Supercomputing](https://wcss.pl/en/)  
 - **[2022–Present]** Electronics Teacher at [Academic High School of Wroclaw University of Technology](https://liceum.pwr.edu.pl/)  
 
-### 📚 Studies  
+### 📚 Studies
 - **[2023–Present]** B.Eng. in Algorithmic Computer Science at Wroclaw University of Technology  
 - **[2019–2023]** Academic High School of Wroclaw University of Technology  
 
-### 🚀 Student Organizations  
+### 🚀 Student Organizations
 - **[2023–Present]** Admin/DevOps at [WMS DEV PWr](https://pl.linkedin.com/company/wms-dev)  
   - **[2023–2025]** Infrastructure Team
   - **[2025–Present]** Board Member, Infrastructure Team Lead
