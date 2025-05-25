@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 👋
 
 ### 🏢 Work
 - **[2023–Present]** Kubernetes Administrator at [Wroclaw Centre for Networking and Supercomputing](https://wcss.pl/en/)  
-- **[2022–Present]** Electronics Teacher at [Academic High School of Wroclaw University of Technology](https://liceum.pwr.edu.pl/)  
+- **[2022–2025]** Electronics Teacher at [Academic High School of Wroclaw University of Technology](https://liceum.pwr.edu.pl/)  
 
 ### 📚 Studies
 - **[2023–Present]** B.Eng. in Algorithmic Computer Science at Wroclaw University of Technology  
