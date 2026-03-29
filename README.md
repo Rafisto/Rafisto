@@ -18,7 +18,7 @@
 - **[2023–Present]** Admin/DevOps at [WMS DEV PWr](https://pl.linkedin.com/company/wms-dev)
   - **[2025–Present]** Board Member, Infrastructure Team Lead
   - **[2023–2025]** Infrastructure Team
-- **[2023–Present]** CTF Task Designer at [White Hats PWr](https://whitehats.pwr.edu.pl/kurs-pentestera/)
+- **[2023–Present]** CTF Task Designer at [White Hats PWr](https://whitehats.pwr.edu.pl/ctf/)
 - **[2024–2025]** IT Section at [AKL PWr](https://akl.pwr.edu.pl/)
 
 ## 🎸 About Me
